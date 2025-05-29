@@ -9,7 +9,7 @@ info = {
 }
 print(info)
 print(type(info))
-print(info["name"])       #if printing can be done on specific keys
+print(info["name"])        #if printing can be done on specific keys
 
 #if want to change the value then
 info["name"] = "Aagam Sanghvi"
