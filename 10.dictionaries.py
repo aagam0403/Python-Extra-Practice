@@ -1,4 +1,4 @@
-#dictionaries are used to store data values in key:value pairs
+#Dictionaries are used to store data values in key:value pairs
 info = {
     "key" : "value",
     "name" : "aagam",
