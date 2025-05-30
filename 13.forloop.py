@@ -1,6 +1,5 @@
 #2 types of loop in python
 #2. For Loop
-
 #for loop
 nums = [1,2,3,4,5]
 for val in nums :
@@ -22,3 +21,8 @@ for char in str :
     print(char)
 else:
     print("END")
+
+#Pass Keyword in Loops
+for i in range(5):
+    pass             #pass means "to skip"
+print("pass")
